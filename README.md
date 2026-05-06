@@ -28,7 +28,7 @@ Database:
 Scalable storage design (API-ready)
 
 ⚙️ Installation & Setup
-git clone https://github.com/your-username/internship-ai-prototype.git
+git clone https://github.com/tashumalviya/AI-Internship-Recommendation-System.git
 cd internship-ai-prototype
 npm install
 npm run dev
@@ -53,4 +53,4 @@ Users can save and revisit internships
 Status
 - Active Development
 
-GitHub Repo : https://github.com/tashumalviya/AI-Internship-Recommendation-System.git
+
