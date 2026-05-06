@@ -53,4 +53,4 @@ Users can save and revisit internships
 Status
 - Active Development
 
-
+GitHub Repo : https://github.com/tashumalviya/AI-Internship-Recommendation-System.git
